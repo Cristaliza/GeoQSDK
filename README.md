@@ -18,9 +18,8 @@ GeoQManager.sharedManager()?.registerDevice(appKey: "YOURAPIKEY", andPlatform: "
 ## Legal Permissions
 
 To ask for granted permissions to GeoQ, use the methods:
-GeoQManager.sharedManager()?.getUserPermission("PERMISSION", completion: { (permission) in
-                
-            })
+GeoQManager.sharedManager()?.getUserPermission("PERMISSION", completion: { (permission) in  
+})
             
 It returns the associated value to the permission. Permissions available are:
 - permissionTracking: indicates if user has granted GeoQ location tracking.
@@ -35,8 +34,7 @@ Values returned by GeoQ can be (always string types):
 
 To modify permissions
 GeoQManager.sharedManager()?.setUserPermission(permission: "PERMISSION", value: true, completion: { (result) in
-                
-            })
+})
             
 ## Push Notifications
 
@@ -44,24 +42,21 @@ To send push notifications token to GeoQ:
 
 func application(_ application: UIApplication, didRegisterForRemoteNotificationsWithDeviceToken deviceToken: Data) {
         GeoQManager.sharedManager()?.setDataNotificationsToken(deviceToken: deviceToken, completion: { (result) in
-            
         })
-        
-    }
+}
     
 To handle GeoQ notifications (others won't be handled by GeoQ):
 
 func userNotificationCenter(_ center: UNUserNotificationCenter, willPresent notification: UNNotification, withCompletionHandler completionHandler: @escaping (UNNotificationPresentationOptions) -> Void) {
-        print("\(notification)")
         guard let arrUserInfo = notification.request.content.userInfo as? [String: AnyObject] else { return }
         GeoQManager.sharedManager()?.handlePushNotification(userInfo: arrUserInfo)
         // custom code to handle push while app is in the foreground
-    }
+        }
     
 func userNotificationCenter(_ center: UNUserNotificationCenter, didReceive response: UNNotificationResponse, withCompletionHandler completionHandler: @escaping () -> Void) {
         guard let arrUserInfo = response.notification.request.content.userInfo as? [String: AnyObject] else { return }
         GeoQManager.sharedManager()?.handlePushNotification(userInfo: arrUserInfo)
-    }
+        }
 
 ---
 
