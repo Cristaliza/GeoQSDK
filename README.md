@@ -23,18 +23,18 @@ GeoQManager.sharedManager()?.getUserPermission("PERMISSION", completion: { (perm
             })
             
 It returns the associated value to the permission. Permissions available are:
-● permissionTracking: indicates if user has granted GeoQ location tracking.
-● permissionNotifications: indicates if user has granted GeoQ to send push notifications.
-● permissionRevoke: indicates if user has revoked access to GeoQ.
+- permissionTracking: indicates if user has granted GeoQ location tracking.
+- permissionNotifications: indicates if user has granted GeoQ to send push notifications.
+- permissionRevoke: indicates if user has revoked access to GeoQ.
 
 Values returned by GeoQ can be (always string types):
-● “true”: user has granted permission
-● “false”: user has denied permission
-● “no-response”: user hasn’t answered to permission grant
-● “”: this permission hasn’t been activated in GeoQ.
+- “true”: user has granted permission
+- “false”: user has denied permission
+- “no-response”: user hasn’t answered to permission grant
+- “”: this permission hasn’t been activated in GeoQ.
 
 To modify permissions
-GeoQManager.sharedManager()?.setUserPermission(permission: "permissionTracking", value: true, completion: { (result) in
+GeoQManager.sharedManager()?.setUserPermission(permission: "PERMISSION", value: true, completion: { (result) in
                 
             })
             
