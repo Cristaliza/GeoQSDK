@@ -7,9 +7,14 @@ To enable GeoQ, contact GeoQ team to get your APIKEY to personalize your install
 
 ## iOS SDK installation
 
+In your pod file, add the next line:
+pod 'GeoQSDK', :git => 'https://github.com/Cristaliza/GeoQSDK.git'
+
+Then, run: pod install or pod update
+
 In your ApplicationDelegate.swift file: 
 
-import GEOQSDK
+import GeoQSDK
 
 GeoQManager.sharedManager()?.registerDevice(appKey: "YOURAPIKEY", andPlatform: "https://services.geoq.es", trackingActive: true, completion: { (identifier) in
         })
