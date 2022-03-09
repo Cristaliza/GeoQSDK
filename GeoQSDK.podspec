@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|  
     s.name              = 'GeoQSDK'
-    s.version           = '2.0.0'
+    s.version           = '2.0.5'
     s.summary           = 'GeoQ iOS framework'
     s.homepage          = 'https://geoq.es/'
 
@@ -8,7 +8,7 @@ Pod::Spec.new do |s|
     s.license           = { :type => 'Custom', :file => 'LICENSE' }
 
     s.platform          = :ios
-    s.source            = { :http => 'https://github.com/Cristaliza/GeoQSDK/releases/download/2.0.0/GeoQSDK.xcframework.zip' }
+    s.source            = { :http => 'https://github.com/Cristaliza/GeoQSDK/releases/download/2.0.5/GeoQSDK.xcframework.zip' }
 
     s.ios.deployment_target = '9.0'
     s.ios.vendored_frameworks = 'GeoQSDK.xcframework'
