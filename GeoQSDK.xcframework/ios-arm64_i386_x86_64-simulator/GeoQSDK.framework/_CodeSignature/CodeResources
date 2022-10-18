@@ -10,19 +10,19 @@
 		</data>
 		<key>Base.lproj/GeoQTACController.nib</key>
 		<data>
-		o7Cb/SnL0tMGRKLuhxkP9sQADUU=
+		zhWDAH0LDSji4XDqnU1zrasjN/Q=
 		</data>
 		<key>GeoQAVPlayerViewController.nib</key>
 		<data>
-		GOUZi5R9qjuRTTWSWpKLNTOcDiQ=
+		yUBSYpMS8E/5Hq02giFbvfms9qc=
 		</data>
 		<key>GeoQViewController.nib</key>
 		<data>
-		EDSiwD7fqjH1bdSxF0Qiln25drU=
+		jTuGLBuupJtyp9gH09fhEZ+/dwI=
 		</data>
 		<key>GeoQWebViewController.nib</key>
 		<data>
-		fhNTsF86aZSjXGCvMHAAuQ+kVi0=
+		kRt/J5KfRSHohQJ3XqgbPT/XLzw=
 		</data>
 		<key>GeoQYTPlayer.html</key>
 		<data>
@@ -30,11 +30,11 @@
 		</data>
 		<key>GeoQYTPlayerViewController.nib</key>
 		<data>
-		R2RpgQoD92Mc/q0wu356p8nf9tY=
+		4C8xUoItdhPRURn/18MCkKtKUjw=
 		</data>
 		<key>Headers/GeoQSDK-Swift.h</key>
 		<data>
-		RGcJnqBSsy7I8RTUmhY1J9iK32Y=
+		qzk1YOlO9opyI9C2Bd87Pgtxvts=
 		</data>
 		<key>Headers/GeoQSDK.h</key>
 		<data>
@@ -42,79 +42,43 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		q7VaNa7NEKEDBnjEjxhcaAJFEus=
+		QOLLZzawgzzbbw2tb/Yzw8pHRD0=
 		</data>
 		<key>Modules/GeoQSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		umo8d3D2wNTvGvRzyaMD+5qEy1I=
+		PS/951ZhRDhv+ziCKNf32b7iAYc=
 		</data>
 		<key>Modules/GeoQSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		KWykZ/MwDqiGZaXJhgVV/mzAY74=
+		GT13YJ+q++7SJgymuPkfAF0KS3A=
 		</data>
 		<key>Modules/GeoQSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		S1E3IT7mra9RYFVMmr3sPFZ/7/U=
-		</data>
-		<key>Modules/GeoQSDK.swiftmodule/arm64.swiftdoc</key>
-		<data>
-		umo8d3D2wNTvGvRzyaMD+5qEy1I=
-		</data>
-		<key>Modules/GeoQSDK.swiftmodule/arm64.swiftinterface</key>
-		<data>
-		KWykZ/MwDqiGZaXJhgVV/mzAY74=
-		</data>
-		<key>Modules/GeoQSDK.swiftmodule/arm64.swiftmodule</key>
-		<data>
-		S1E3IT7mra9RYFVMmr3sPFZ/7/U=
+		6NouRsntgxGL8QDdbWqGDvVxksM=
 		</data>
 		<key>Modules/GeoQSDK.swiftmodule/i386-apple-ios-simulator.swiftdoc</key>
 		<data>
-		dOEBkY91UzAieWnRXootw2/KGPI=
+		PcFJ62xQUfyH7644m19WHvSgMM4=
 		</data>
 		<key>Modules/GeoQSDK.swiftmodule/i386-apple-ios-simulator.swiftinterface</key>
 		<data>
-		Nj63B/hqhl5XfDobhjshpMPcg84=
+		CQL5G7OGdPqeOS83t+xFpQ8jUSU=
 		</data>
 		<key>Modules/GeoQSDK.swiftmodule/i386-apple-ios-simulator.swiftmodule</key>
 		<data>
-		362BBPRZ+HPyoogP3TcQD4GlKXE=
-		</data>
-		<key>Modules/GeoQSDK.swiftmodule/i386.swiftdoc</key>
-		<data>
-		dOEBkY91UzAieWnRXootw2/KGPI=
-		</data>
-		<key>Modules/GeoQSDK.swiftmodule/i386.swiftinterface</key>
-		<data>
-		Nj63B/hqhl5XfDobhjshpMPcg84=
-		</data>
-		<key>Modules/GeoQSDK.swiftmodule/i386.swiftmodule</key>
-		<data>
-		362BBPRZ+HPyoogP3TcQD4GlKXE=
+		5Fj7JZb3Wi1OAISPCJCQhS3I21Q=
 		</data>
 		<key>Modules/GeoQSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		oa+pmx2LsMGaUYcjC0FvFDKDv0M=
+		bC7DiDlxKKlrBXvPn5J8JgMaXAA=
 		</data>
 		<key>Modules/GeoQSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		YoogrHMrOjD7l/GVdwMM3+HPXEc=
+		XseahU5gSTrqoa+PGFdltoopmCw=
 		</data>
 		<key>Modules/GeoQSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		KTFnQ9RDcuKOZ6w1JdEoc6eNGLQ=
-		</data>
-		<key>Modules/GeoQSDK.swiftmodule/x86_64.swiftdoc</key>
-		<data>
-		oa+pmx2LsMGaUYcjC0FvFDKDv0M=
-		</data>
-		<key>Modules/GeoQSDK.swiftmodule/x86_64.swiftinterface</key>
-		<data>
-		YoogrHMrOjD7l/GVdwMM3+HPXEc=
-		</data>
-		<key>Modules/GeoQSDK.swiftmodule/x86_64.swiftmodule</key>
-		<data>
-		KTFnQ9RDcuKOZ6w1JdEoc6eNGLQ=
+		nMqvB/I/NIwO8KVQ3piPziqrHyc=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -137,7 +101,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			bHDq+KwVbfxwiNmj/+lyitU564Y=
+			DPEb2QDuxFiFl708lf/cgxRTFEw=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -155,7 +119,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			N5/wIptG2APt3QjsZUKPpuqLyhQ=
+			2eqsqTS1Bkx1f1Y4R/MjKylGX64=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -178,44 +142,44 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			o7Cb/SnL0tMGRKLuhxkP9sQADUU=
+			zhWDAH0LDSji4XDqnU1zrasjN/Q=
 			</data>
 			<key>hash2</key>
 			<data>
-			nf1ur2UpksXJgA/U+WG2e+H1y/Jy1R/Ov72rqVZi/NU=
+			Co2D5UPdNhygyPigbiHypAyGYo8puGN8yGWrXkklJLI=
 			</data>
 		</dict>
 		<key>GeoQAVPlayerViewController.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			GOUZi5R9qjuRTTWSWpKLNTOcDiQ=
+			yUBSYpMS8E/5Hq02giFbvfms9qc=
 			</data>
 			<key>hash2</key>
 			<data>
-			d4jKLedng+ofFOTSBy3dci+XqDe9xtOLL2SIuBtXK5E=
+			+B0eNO6TgqSMJxhJPGEM0u2TcL4k9Ny2YhfPUL57X/8=
 			</data>
 		</dict>
 		<key>GeoQViewController.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			EDSiwD7fqjH1bdSxF0Qiln25drU=
+			jTuGLBuupJtyp9gH09fhEZ+/dwI=
 			</data>
 			<key>hash2</key>
 			<data>
-			m886wynw0dqozV05/KxixU9x29UWmqawLjynsFrZddQ=
+			8c5YpB5hvulgJEW2dsYx14/RJ2qNw2G2JRKeMolc0XE=
 			</data>
 		</dict>
 		<key>GeoQWebViewController.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			fhNTsF86aZSjXGCvMHAAuQ+kVi0=
+			kRt/J5KfRSHohQJ3XqgbPT/XLzw=
 			</data>
 			<key>hash2</key>
 			<data>
-			RjGLkVzoKKop3vszv8RVuIDiKcvuKdTvEqP/bRhdCGI=
+			7Y281FWq6k7H7mMrMridYwxYyAD48BO8B0HBiKzchjs=
 			</data>
 		</dict>
 		<key>GeoQYTPlayer.html</key>
@@ -233,22 +197,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			R2RpgQoD92Mc/q0wu356p8nf9tY=
+			4C8xUoItdhPRURn/18MCkKtKUjw=
 			</data>
 			<key>hash2</key>
 			<data>
-			Z89eDZ52G1Tx+82+cf4fIz5ybkhbwVfNRJQ29vY9G3I=
+			o995JtYkHBJzZ/tpbwSYvCr3dG6twjRtZlF5yyWSME8=
 			</data>
 		</dict>
 		<key>Headers/GeoQSDK-Swift.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			RGcJnqBSsy7I8RTUmhY1J9iK32Y=
+			qzk1YOlO9opyI9C2Bd87Pgtxvts=
 			</data>
 			<key>hash2</key>
 			<data>
-			OfCZ3QtycY+92jNR5VNS24s4wirUyh6VxWxXxv6+ztE=
+			EOO6GmVSVUk3evHEiEz3w+Y8+LZ801doHb4OIB4wNTs=
 			</data>
 		</dict>
 		<key>Headers/GeoQSDK.h</key>
@@ -266,198 +230,99 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			umo8d3D2wNTvGvRzyaMD+5qEy1I=
+			PS/951ZhRDhv+ziCKNf32b7iAYc=
 			</data>
 			<key>hash2</key>
 			<data>
-			3XjDn1F1cgmx3tiuyNmhdAc2tLqMl3WVSsvUOYAcWHg=
+			aOr3fFMAmzZEMEPstc6d4Gis21g5x0nWO7vrmilzN+o=
 			</data>
 		</dict>
 		<key>Modules/GeoQSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			KWykZ/MwDqiGZaXJhgVV/mzAY74=
+			GT13YJ+q++7SJgymuPkfAF0KS3A=
 			</data>
 			<key>hash2</key>
 			<data>
-			1Y+mB/rEJHwQ0ii7yyWFVLGNsClXNrGHPYQRJqOOPeI=
+			3bUodZmqxGWbcnmJZFE9M2MrahDLauFLkcbC6GCVLbU=
 			</data>
 		</dict>
 		<key>Modules/GeoQSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			S1E3IT7mra9RYFVMmr3sPFZ/7/U=
+			6NouRsntgxGL8QDdbWqGDvVxksM=
 			</data>
 			<key>hash2</key>
 			<data>
-			I9fYOLq+xApuvSO4cZln8oDBU7piRweogydiIXPLmgI=
-			</data>
-		</dict>
-		<key>Modules/GeoQSDK.swiftmodule/arm64.swiftdoc</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			umo8d3D2wNTvGvRzyaMD+5qEy1I=
-			</data>
-			<key>hash2</key>
-			<data>
-			3XjDn1F1cgmx3tiuyNmhdAc2tLqMl3WVSsvUOYAcWHg=
-			</data>
-		</dict>
-		<key>Modules/GeoQSDK.swiftmodule/arm64.swiftinterface</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			KWykZ/MwDqiGZaXJhgVV/mzAY74=
-			</data>
-			<key>hash2</key>
-			<data>
-			1Y+mB/rEJHwQ0ii7yyWFVLGNsClXNrGHPYQRJqOOPeI=
-			</data>
-		</dict>
-		<key>Modules/GeoQSDK.swiftmodule/arm64.swiftmodule</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			S1E3IT7mra9RYFVMmr3sPFZ/7/U=
-			</data>
-			<key>hash2</key>
-			<data>
-			I9fYOLq+xApuvSO4cZln8oDBU7piRweogydiIXPLmgI=
+			6CkXp85X2Iio+H5I+KJIPd+nGMrMaahifM8hJuhn7ko=
 			</data>
 		</dict>
 		<key>Modules/GeoQSDK.swiftmodule/i386-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			dOEBkY91UzAieWnRXootw2/KGPI=
+			PcFJ62xQUfyH7644m19WHvSgMM4=
 			</data>
 			<key>hash2</key>
 			<data>
-			KmGIr14RzEkR+KZPkIJvEOgVzBA6tk9KXD/W6RQwXVg=
+			P/70MtFMh6g2PUrGADPcT8RXesovp/dnIzZWR7XG7mw=
 			</data>
 		</dict>
 		<key>Modules/GeoQSDK.swiftmodule/i386-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Nj63B/hqhl5XfDobhjshpMPcg84=
+			CQL5G7OGdPqeOS83t+xFpQ8jUSU=
 			</data>
 			<key>hash2</key>
 			<data>
-			2pNoUCjmxtTEkk7sQ7zAKpYYldD+wFA2qZcTdbUJqWY=
+			Hy1/2Fr4ESTVLUuNnzefLenWks7ZwxPkeDNI4xwI43A=
 			</data>
 		</dict>
 		<key>Modules/GeoQSDK.swiftmodule/i386-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			362BBPRZ+HPyoogP3TcQD4GlKXE=
+			5Fj7JZb3Wi1OAISPCJCQhS3I21Q=
 			</data>
 			<key>hash2</key>
 			<data>
-			AkV86Ynz+zKiFQ7iOMZ5IBetjjj/l1GcsVg+PNQRiuM=
-			</data>
-		</dict>
-		<key>Modules/GeoQSDK.swiftmodule/i386.swiftdoc</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			dOEBkY91UzAieWnRXootw2/KGPI=
-			</data>
-			<key>hash2</key>
-			<data>
-			KmGIr14RzEkR+KZPkIJvEOgVzBA6tk9KXD/W6RQwXVg=
-			</data>
-		</dict>
-		<key>Modules/GeoQSDK.swiftmodule/i386.swiftinterface</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			Nj63B/hqhl5XfDobhjshpMPcg84=
-			</data>
-			<key>hash2</key>
-			<data>
-			2pNoUCjmxtTEkk7sQ7zAKpYYldD+wFA2qZcTdbUJqWY=
-			</data>
-		</dict>
-		<key>Modules/GeoQSDK.swiftmodule/i386.swiftmodule</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			362BBPRZ+HPyoogP3TcQD4GlKXE=
-			</data>
-			<key>hash2</key>
-			<data>
-			AkV86Ynz+zKiFQ7iOMZ5IBetjjj/l1GcsVg+PNQRiuM=
+			BMT6CCb+jbUSk6GCwj7Kx1uYrIhyaReGFNITeg+np28=
 			</data>
 		</dict>
 		<key>Modules/GeoQSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			oa+pmx2LsMGaUYcjC0FvFDKDv0M=
+			bC7DiDlxKKlrBXvPn5J8JgMaXAA=
 			</data>
 			<key>hash2</key>
 			<data>
-			K9exbW+KsjMn038ffhZ9m++QxBG7NU9oV8Rg5oJKgUE=
+			mbM9zdyTnppPqALknsKu6C+5cjF+uODJfaxNkCZUIX0=
 			</data>
 		</dict>
 		<key>Modules/GeoQSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			YoogrHMrOjD7l/GVdwMM3+HPXEc=
+			XseahU5gSTrqoa+PGFdltoopmCw=
 			</data>
 			<key>hash2</key>
 			<data>
-			7QuFMTCVgWcoJ5zYj1dRhuFBJyzquLCqNupXIXKIpds=
+			YVsf4xgT/ZRh7xUkuL/AJ3gBXKxss7+CvWBfCXhFlTQ=
 			</data>
 		</dict>
 		<key>Modules/GeoQSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			KTFnQ9RDcuKOZ6w1JdEoc6eNGLQ=
+			nMqvB/I/NIwO8KVQ3piPziqrHyc=
 			</data>
 			<key>hash2</key>
 			<data>
-			dThHkFtUxXDqriQIGLaHEOeqv/X1oY8xW4NI5OYccL4=
-			</data>
-		</dict>
-		<key>Modules/GeoQSDK.swiftmodule/x86_64.swiftdoc</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			oa+pmx2LsMGaUYcjC0FvFDKDv0M=
-			</data>
-			<key>hash2</key>
-			<data>
-			K9exbW+KsjMn038ffhZ9m++QxBG7NU9oV8Rg5oJKgUE=
-			</data>
-		</dict>
-		<key>Modules/GeoQSDK.swiftmodule/x86_64.swiftinterface</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			YoogrHMrOjD7l/GVdwMM3+HPXEc=
-			</data>
-			<key>hash2</key>
-			<data>
-			7QuFMTCVgWcoJ5zYj1dRhuFBJyzquLCqNupXIXKIpds=
-			</data>
-		</dict>
-		<key>Modules/GeoQSDK.swiftmodule/x86_64.swiftmodule</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			KTFnQ9RDcuKOZ6w1JdEoc6eNGLQ=
-			</data>
-			<key>hash2</key>
-			<data>
-			dThHkFtUxXDqriQIGLaHEOeqv/X1oY8xW4NI5OYccL4=
+			t507LIxksifDjopXDDTNy0ihBEmhcV7pshpFK+qYDkE=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -499,11 +364,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			bHDq+KwVbfxwiNmj/+lyitU564Y=
+			DPEb2QDuxFiFl708lf/cgxRTFEw=
 			</data>
 			<key>hash2</key>
 			<data>
-			Ailk/KxmkRE9A1EOcM1MSXZ7yMhlvmyp/D8jQgwWDCI=
+			Zlr34raP7tq4azVY45fJvxoKMYWv8ce5H0p2gCySUFg=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -525,11 +390,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			N5/wIptG2APt3QjsZUKPpuqLyhQ=
+			2eqsqTS1Bkx1f1Y4R/MjKylGX64=
 			</data>
 			<key>hash2</key>
 			<data>
-			+ErWOD/b1OO+lXvRpcATUPP47RkKI80+9BKh4AR6ucw=
+			DUGOSgPmCREyIqg+kxMgu1J7yyLb5ZPOo7/yky1XmQo=
 			</data>
 			<key>optional</key>
 			<true/>

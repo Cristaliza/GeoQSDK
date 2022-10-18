@@ -1,5 +1,5 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 5.5.2 (swiftlang-1300.0.47.5 clang-1300.0.29.30)
+// swift-compiler-version: Apple Swift version 5.6.1 (swiftlang-5.6.0.323.66 clang-1316.0.20.12)
 // swift-module-flags: -target arm64-apple-ios9.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name GeoQSDK
 import AVFoundation
 import AdSupport
@@ -144,6 +144,7 @@ extension Foundation.NSNotification.Name {
   @objc public func findGroups(byName name: Swift.String?, completion completionHandler: @escaping (_ groups: [GeoQSDK.FG_GroupData]?) -> Swift.Void)
   @objc public class func sharedManager() -> GeoQSDK.GeoQManager?
   @objc public func getDeviceID() -> Swift.String?
+  public func createNewDeviceID() -> Swift.String?
   @objc deinit
   @objc public func getAdIdWithPermissionWithCompletion(_ completionHandler: @escaping (_ adId: Swift.String) -> Swift.Void)
   @objc public func checkUserLocation(completionHandler: @escaping ([Swift.String : Swift.String]?) -> Swift.Void)
