@@ -20,8 +20,8 @@ let package = Package(
         // Targets can depend on other targets in this package, and on products in packages this package depends on.
         .binaryTarget(
                     name: "GeoQSDK",
-                    url: "https://github.com/Cristaliza/GeoQSDK/releases/download/2.0.5/GeoQSDK.xcframework.zip",
-                    checksum: "083f31b410baf4cc7a9d64061310ce727507f98a7a1600165d92415ac2070aee"),
+                    url: "https://github.com/Cristaliza/GeoQSDK/releases/download/2.0.6/GeoQSDK.xcframework.zip",
+                    checksum: "5d8462301b012278f9d2dc709087ff613635b5ad293be07d0cc11936e49f874d"),
 
     ]
 )
